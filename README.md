@@ -10,19 +10,13 @@ A Deep Learning project that predicts future image frames using a CNN-LSTM model
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/image.png)
 
----
 
-## Upload Image
-
-![Upload](screenshots/upload.png)
-
----
 
 ## Prediction Result
 
-![Prediction](screenshots/output.png)
+![Prediction](screenshots/image.png)
 
 ---
 
